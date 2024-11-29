@@ -94,10 +94,10 @@ Example Questions Addressed:
 Contributions are welcome! If you would like to improve the project or add new analyses:
 * Fork the repository.
 * Create a feature branch:
-bash
+
 git checkout -b feature-name
 
-* Commit your changes
+* Commit your change
   git commit -m "Add your message here"
 * Push to your branch and create a pull request.
 
