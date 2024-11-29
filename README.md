@@ -55,5 +55,52 @@ Key areas of analysis include:
 THOR is a painstakingly cultivated database of historic aerial bombings from World War I through Vietnam. THOR has already proven useful in finding unexploded ordnance in Southeast Asia and improving Air Force combat tactics:
 https://www.kaggle.com/usaf/vietnam-war-bombing-operations
 
+# 🚀 Usage
+* Open the notebook Vietnam_War_Bombing_Operations.ipynb in Jupyter.
+* Follow the step-by-step analysis to explore and understand the dataset.
+* Modify the code for your own queries and visualizations.
+
+
+# 🔍 Insights and Analysis
+
+Example Questions Addressed:
+
+
+1.Find all aircrafts of type "Light Bomber"
+
+2.Find all bombing missions operated by "VIETMAN (SOUTH)"
+
+3.Find aircraft, ,mission data, country Flying mission of those attacks in which the Take off location was "UDORN AB"
+
+4.Find all bombing operation on the year 1971
+
+5.Find the number of missions operated by each aircraft
+
+6.Find the maximum attack time operated by each aircraft
+
+7.Find the maximum attack time operated by each aircraft on a different target country
+
+8.What were the most common aircraft models used during the Vietnam War?
+
+9.Which operations saw the highest frequency of missions?
+
+10.What were the trends in bombing operations over the years?
+
+11.How did mission types vary by time of day and location?
+
+12.What were the most frequently used weapons, and how much weight did they carry?
+
+# 🤝 Contributing
+Contributions are welcome! If you would like to improve the project or add new analyses:
+* Fork the repository.
+* Create a feature branch:
+bash
+git checkout -b feature-name
+
+* Commit your changes
+  git commit -m "Add your message here"
+* Push to your branch and create a pull request.
+
+
 
 
